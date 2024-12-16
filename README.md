@@ -1,10 +1,7 @@
 
-  <h1>Hello, I'm Akshat</h1> 
-  I'm a front-end developer. I like to code and design things from scratch and enjoy bringing ideas to life. 
-  <br></br>
-  I am looking for work and projects where I am able to apply my experience and knowledge and have opportunities to learn, develop and progress my career. I am naturally curious, confident, and perpetually working on improving my skills.
+  <h1> Akshat Suck at production </h1> 
 
-<br></br>
+
 
 <div align="center">
   <h4>Languages & frameworks:</h4>
